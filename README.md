@@ -1,1 +1,2 @@
-# amazon
+During my internship at Unified Mentor Pvt Ltd, I learned ETL processes in Python, data analysis, and visualization using Pandas, Matplotlib, and Seaborn. Worked with diverse datasets from e-commerce and domain sales, identified key metrics and trends, created dashboards, collaborated with teams, and gained skills in statistical analysis, data cleaning, and data manipulation while emphasizing data integrity and privacy.
+
